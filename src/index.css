@@ -6,6 +6,14 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
+  background-image: url(https://files.oaiusercontent.com/file-KM55bMbTE8gkKTbZhBEv1c?se=2025-03-26T07%3A25%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D61219781-cdec-48dc-aaa8-efe6a3b3290b.webp&sig=dvwm2Z/RO3mIg7YbpgHG5jl6HUY7A7rtswELfeY/rW0%3D);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /*Ensures the background covers the full height of the screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
