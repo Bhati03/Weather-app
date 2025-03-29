@@ -7,6 +7,6 @@ export default defineConfig({
     port: process.env.PORT || 5173,
     host: "0.0.0.0",
     strictPort: true,
-    allowedHosts: ["weather-app-xybc.onrender.com"], // Add this line
+    allowedHosts: ["weather-app-1-kcet.onrender.com"], // Add this line
   },
 });
